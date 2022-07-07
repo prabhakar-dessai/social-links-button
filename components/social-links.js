@@ -7,7 +7,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { faLink } from "@fortawesome/free-solid-svg-icons";
 
-function sociallinks() {
+function Sociallinks() {
 	//saves state of the clicked component
 	let [isOpen, setIsOpen] = useState(false);
 	const handleClick = () => {
@@ -85,4 +85,4 @@ function sociallinks() {
 	);
 }
 
-export default sociallinks;
+export default Sociallinks;
