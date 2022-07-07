@@ -1,7 +1,8 @@
-Social Links Button
+## Social Links Button
+
 An interative button for social media links created using Nextjs and TailwindCSS
 
-Demo:
+## Demo:
 [social-links-button.vercel.app](https://social-links-button.vercel.app/)
 
 
